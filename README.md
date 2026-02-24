@@ -121,4 +121,4 @@ I think the most promising direction is pushing the local model further. It's fa
 
 ## Demo
 
-https://github.com/user-attachments/assets/ae4011a0-588c-446c-bde0-57338e7883b1
+https://github.com/user-attachments/assets/64b07646-4757-4b88-80f3-09d008580daa
